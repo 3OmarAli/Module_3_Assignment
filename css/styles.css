@@ -1,0 +1,77 @@
+*
+{
+	
+	box-sizing: border-box;
+}
+body
+{
+	background-color: #151515 !important;
+}
+
+header
+{
+
+	margin-bottom : 35px;
+}
+
+h1
+{
+	color: white;
+}
+
+h2
+{
+	color: white;
+	text-align: center;
+	margin-bottom: 5px;
+}
+
+.row
+{
+	margin-top: 50px;
+	width: 100%;
+}
+
+section
+{
+	border : 1px solid white;
+	color: #aaa;
+	margin: 10px;
+	margin-bottom: 40px;
+	padding: 15px;
+}
+p
+{color: #eee;}
+
+/*Nutrion class ( first paragraph )*/
+.Nutrition
+{
+	font-size: 25px;
+	color: orange;
+	text-align: center;
+}
+
+/*Excercise class ( Second Paragraph)*/
+.Excercise
+{
+	font-size: 25px;
+	color: orange;
+	text-align: center;
+}
+
+/*Sleep class ( Third paragraph )*/
+.Sleep
+{
+	font-size: 25px;
+	color: orange;
+	text-align: center;
+}
+
+.space
+{
+	margin-bottom: 15px;
+}
+
+nav{
+	margin-bottom: 30px;
+}
