@@ -36,7 +36,8 @@ section
 {
 	border : 1px solid white;
 	color: #aaa;
-	margin:30px;
+	margin-left: 25px;
+	margin-right: 10px;
 	margin-bottom: 40px;
 	padding: 15px;
 }
